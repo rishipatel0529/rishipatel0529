@@ -2,10 +2,6 @@
 
 ## Artificial Intelligence & Data Science Student at Purdue University
 
-- 🎓 **Major:** B.S. Artificial Intelligence & Data Science (Double Major)
-- 📚 **Minor:** Mathematics & Entrepreneurship
-- 🏀 **Social Media Manager:** Indian Basketball Association (IBA)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/rishi-patel-05ma29" target="blank">
