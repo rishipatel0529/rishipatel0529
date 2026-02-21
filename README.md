@@ -1,9 +1,9 @@
-# Hi 👋, I'm Rishi Patel
+# Hi, I'm Rishi Patel
 
 ## Artificial Intelligence & Data Science Student at Purdue University
 
 ## About Me
-Hi 👋 I'm Rishi Patel, a passionate Artificial Intelligence & Data Science student at Purdue University. I enjoy building scalable, ML-driven applications that blend cutting-edge algorithms with real-world impact. I’m always eager to explore new technologies and contribute to projects that challenge me to grow.
+Hi I'm Rishi Patel, a passionate Artificial Intelligence & Data Science student at Purdue University. I enjoy building scalable, ML-driven applications that blend cutting-edge algorithms with real-world impact. I’m always eager to explore new technologies and contribute to projects that challenge me to grow.
 
 ## Currently Working On
 I'm currently developing a real-time F1 Race Strategy Optimization Platform. It ingests live telemetry, weather, and track metadata using Kafka and Feast, and serves predictions in under 30ms using FastAPI microservices. I’ve trained LightGBM models and RLlib agents to optimize tire and pit strategies, with experiment tracking through MLflow and automated retraining using Airflow. The system is deployed on Kubernetes with Prometheus and Grafana monitoring in place.
